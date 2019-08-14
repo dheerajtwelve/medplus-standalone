@@ -1,0 +1,7 @@
+{
+  "name": "medplusstandalone",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
